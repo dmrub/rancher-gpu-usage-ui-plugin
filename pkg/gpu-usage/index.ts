@@ -1,5 +1,5 @@
 import { importTypes } from '@rancher/auto-import';
-import { IPlugin, CardLocation, PanelLocation } from '@shell/core/types';
+import { IPlugin, CardLocation } from '@shell/core/types';
 
 // Init the package
 export default function(plugin: IPlugin) {
