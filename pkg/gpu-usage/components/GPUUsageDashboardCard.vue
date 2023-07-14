@@ -61,7 +61,7 @@ export default {
   }
 };
 </script>
-
+<!-- !fel.enabled ? t('gpu-usage.linkedList.na') + fel.status : undefined -->
 <template>
   <div>
     <div class="create-resource-container">
@@ -70,7 +70,7 @@ export default {
           v-for="fel in externalLinks"
           :key="fel.label"
           v-clean-tooltip="
-            !fel.enabled ? t('gpu-usage.linkedList.na') + fel.status : undefined
+            !fel.enabled ? t('gpu-usage.linkedList.na') : undefined
           "
           :href="fel.enabled ? fel.link : void 0"
           :disabled="!fel.enabled"
