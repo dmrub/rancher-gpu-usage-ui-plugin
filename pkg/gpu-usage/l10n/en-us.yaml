@@ -1,0 +1,10 @@
+gpu-usage:
+  card-title: GPU Resources
+  linkedList:
+    label: GPU Usage
+    na: "Not available"
+    description: GPU Usage Dashboard
+  description: GPU Usage Dashboard
+  failedToLoad: Could not load GPU Usage dashboard
+  reload: Reload GPU Usage dashboard
+  grafana: Grafana
