@@ -12,12 +12,12 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-07-14T10:59:15.592248737Z"
+    created: "2023-07-14T11:36:26.462550318Z"
     description: gpu-usage plugin
-    digest: f47b357781ce451c78f7457672634b70e91c487d7024d48c98c5a639cdfed8af
+    digest: 0622cfb82dc483f463d7ca65e044ce22b2d3bce683b76713fe7cebb4d4820037
     name: gpu-usage
     type: application
     urls:
     - gpu-usage/gpu-usage-0.1.0.tgz
     version: 0.1.0
-generated: "2023-07-14T10:59:15.591255233Z"
+generated: "2023-07-14T11:36:26.460077105Z"
