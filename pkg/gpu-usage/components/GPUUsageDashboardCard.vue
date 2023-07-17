@@ -1,6 +1,8 @@
 <script>
 import LazyImage from '@shell/components/LazyImage';
 
+const VERSION = '0.2.0';
+
 export default {
   name:       'GPUUsageDashboardCard',
   components: { LazyImage },
@@ -18,6 +20,7 @@ export default {
     const currentCluster = this.$store.getters['currentCluster'];
 
     return {
+      version:       VERSION,
       externalLinks: [
         {
           enabled:     false,

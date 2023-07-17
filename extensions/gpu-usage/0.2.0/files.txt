@@ -1,0 +1,9 @@
+plugin/gpu-usage-0.2.0.umd.min.1.js
+plugin/gpu-usage-0.2.0.umd.min.1.js.map
+plugin/gpu-usage-0.2.0.umd.min.2.js
+plugin/gpu-usage-0.2.0.umd.min.2.js.map
+plugin/gpu-usage-0.2.0.umd.min.js
+plugin/gpu-usage-0.2.0.umd.min.js.map
+plugin/img/generic-catalog.99bdaecf.svg
+plugin/img/gpu-card.587d9839.svg
+plugin/package.json

@@ -1,0 +1,2 @@
+(("undefined"!==typeof self?self:this)["webpackJsonpgpu_usage_0_2_0"]=("undefined"!==typeof self?self:this)["webpackJsonpgpu_usage_0_2_0"]||[]).push([[2],{"1bb6":function(a,e){const s=[{"gpu-usage":{"card-title":"GPU Resources",linkedList:{label:"GPU Usage",na:"Not available",description:"GPU Usage Dashboard"},description:"GPU Usage Dashboard",failedToLoad:"Could not load GPU Usage dashboard",reload:"Reload GPU Usage dashboard",grafana:"Grafana"}}];a.exports=s.length<=1?s[0]:s}}]);
+//# sourceMappingURL=gpu-usage-0.2.0.umd.min.2.js.map
