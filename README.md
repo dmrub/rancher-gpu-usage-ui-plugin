@@ -3,6 +3,9 @@ Kubernetes GPU Usage UI plugin for the Rancher Dashboard UI
 
 This plugin must be used with the https://github.com/dmrub/k8s-gpu-usage Kubernetes application.
 
+When you click on the link, you will be redirected to the k8s-gpu-usage application website.
+![Screenshot](screenshot.jpg)
+
 License
 =======
 
