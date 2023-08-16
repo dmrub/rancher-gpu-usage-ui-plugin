@@ -12,7 +12,7 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 0.2.0
-    created: "2023-07-17T15:19:43.172455551Z"
+    created: "2023-08-16T18:17:10.031568037Z"
     description: gpu-usage plugin
     digest: 9526346afe478e1e063637d80e2139b8bbcbda80b67bb4b5400bc342eeb301d9
     name: gpu-usage
@@ -31,7 +31,7 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-07-17T15:19:43.172081649Z"
+    created: "2023-08-16T18:17:10.031294026Z"
     description: gpu-usage plugin
     digest: 0622cfb82dc483f463d7ca65e044ce22b2d3bce683b76713fe7cebb4d4820037
     name: gpu-usage
@@ -39,4 +39,4 @@ entries:
     urls:
     - gpu-usage/gpu-usage-0.1.0.tgz
     version: 0.1.0
-generated: "2023-07-17T15:19:43.169130538Z"
+generated: "2023-08-16T18:17:10.03087401Z"
